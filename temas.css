@@ -1,3 +1,7 @@
 header {
     background: #312b2b
 }
+
+nav a {
+    display:inline
+}
