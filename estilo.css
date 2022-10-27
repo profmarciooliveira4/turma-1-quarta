@@ -6,6 +6,10 @@ header {
     background: #323030;
 }
 
+nav li {
+display: inline;
+}
+
 .texto-principal {
     margin-right: 20%; 
 }
